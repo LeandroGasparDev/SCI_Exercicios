@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2023/10/07 13:05:17.000.695,=C:\Users\leand\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2023/10/07 13:42:10.000.358,=C:\Users\leand\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2023/10/09 09:45:52.000.618,=C:\Users\leand\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2023/10/18 20:27:31.000.349,=C:\Users\leand\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2023/11/06 20:17:49.000.319,=C:\Users\leand\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2023/11/07 13:24:48.000.252,=C:\Users\leand\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2023/11/07 13:25:35.000.264,=C:\Users\leand\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2024/01/18 19:45:34.000.688,=C:\Users\leand\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2024/07/24 17:55:43.000.703,=C:\Users\leand\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2024/07/27 13:36:29.947,=C:\Users\leand\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2024/07/27 13:36:53.661,C:\Users\leand\Desktop\ProjetoSCI\ufrmPrincipal.pas=C:\Users\leand\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2024/07/27 13:36:53.661,C:\Users\leand\Desktop\ProjetoSCI\ufrmPrincipal.dfm=C:\Users\leand\Documents\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>2024/07/28 13:42:41.781,=C:\Users\leand\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2024/07/28 13:42:56.130,C:\Users\leand\Desktop\ProjetoSCI\ufrmExc1.dfm=C:\Users\leand\Documents\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>2024/07/28 13:42:56.130,C:\Users\leand\Desktop\ProjetoSCI\ufrmExc1.pas=C:\Users\leand\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2024/07/28 14:17:16.084,=C:\Users\leand\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2024/07/28 14:17:26.121,C:\Users\leand\Desktop\ProjetoSCI\ufrmExc2.dfm=C:\Users\leand\Documents\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>2024/07/28 14:17:26.121,C:\Users\leand\Desktop\ProjetoSCI\ufrmExc2.pas=C:\Users\leand\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2024/07/28 14:19:20.371,=C:\Users\leand\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2024/07/28 14:19:27.494,C:\Users\leand\Desktop\ProjetoSCI\uFuncoes.pas=C:\Users\leand\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2024/07/28 14:47:59.707,=C:\Users\leand\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2024/07/28 14:48:07.103,C:\Users\leand\Desktop\ProjetoSCI\frmExc3.dfm=C:\Users\leand\Documents\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>2024/07/28 14:48:07.103,C:\Users\leand\Desktop\ProjetoSCI\frmExc3.pas=C:\Users\leand\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2024/07/28 14:48:14.603,C:\Users\leand\Desktop\ProjetoSCI\ufrmExc3.pas=C:\Users\leand\Desktop\ProjetoSCI\frmExc3.pas</Transaction>
+    <Transaction>2024/07/28 14:48:14.603,C:\Users\leand\Desktop\ProjetoSCI\ufrmExc3.dfm=C:\Users\leand\Desktop\ProjetoSCI\frmExc3.dfm</Transaction>
+    <Transaction>2024/07/28 15:01:59.897,=C:\Users\leand\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2024/07/28 15:02:07.591,C:\Users\leand\Desktop\ProjetoSCI\ufrmExc4.dfm=C:\Users\leand\Documents\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>2024/07/28 15:02:07.591,C:\Users\leand\Desktop\ProjetoSCI\ufrmExc4.pas=C:\Users\leand\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2024/07/28 15:22:41.848,=C:\Users\leand\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2024/07/28 15:22:50.017,C:\Users\leand\Desktop\ProjetoSCI\ufrmExc5.dfm=C:\Users\leand\Documents\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>2024/07/28 15:22:50.017,C:\Users\leand\Desktop\ProjetoSCI\ufrmExc5.pas=C:\Users\leand\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2024/07/28 15:39:37.293,=C:\Users\leand\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2024/07/28 15:39:57.275,=C:\Users\leand\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2024/07/28 15:40:15.257,C:\Users\leand\Desktop\ProjetoSCI\uExc6.pas=C:\Users\leand\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2024/07/28 15:40:29.280,=C:\Users\leand\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2024/07/28 15:40:40.337,C:\Users\leand\Desktop\ProjetoSCI\UfrmExc7.dfm=C:\Users\leand\Documents\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>2024/07/28 15:40:40.337,C:\Users\leand\Desktop\ProjetoSCI\UfrmExc7.pas=C:\Users\leand\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2024/07/28 15:51:55.813,C:\Users\leand\Desktop\ProjetoSCI\SCI_Exercicios.dproj=C:\Users\leand\Documents\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+  </Transactions>
+</BorlandProject>
